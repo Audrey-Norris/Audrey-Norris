@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello! I'm Audrey Norris
+###Software Developer/Project Manager
+Hi I am an adaptble programmer who has been working on projects for 6 years in school and through work. I am also a developing project manager working on projects for clients through my development team to deliver the best products possible.
+
+##My Skills
+
+##Connect With Me
+
+
 
 <!--
 **Audrey-Norris/Audrey-Norris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
