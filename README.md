@@ -1,11 +1,11 @@
 ## Hello! I'm Audrey Norris
-###Software Developer/Project Manager
+### Software Developer/Project Manager
 Hi I am an adaptble programmer who has been working on projects for 6 years in school and through work. I am also a developing project manager working on projects for clients through my development team to deliver the best products possible.
 
-##My Skills
+## My Skills
 
-##Connect With Me
-
+## Connect With Me
+<a target="_blank" href="https://www.linkedin.com/in/audrey-norris/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 
 <!--
