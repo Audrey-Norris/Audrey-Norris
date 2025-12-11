@@ -25,7 +25,8 @@ When I'm not coding, you'll find me on the mic as an esports shoutcaster or spea
 **[Game Project for Make-A-Wish Foundation](https://www.ktvb.com/article/news/local/boise-child-with-leukemia-receives-dream-wish/277-a33ce6c3-1fee-4ecc-829c-a68b86a76346)**  
 Developed a custom game to fulfill a child's dream, featured in local news.
 
----
+**[United Nations Speaker on AI & Youth Education](https://www.boisestate.edu/news/2025/10/23/student-speaks-about-ai-at-the-united-nations/)**  
+Invited to speak at UN Headquarters in New York City for World Youth Skills Day 2025, addressing policy-makers and educators about AI's role in preparing the next generation for the future of work.
 
 ## 📫 Let's Connect!
 
