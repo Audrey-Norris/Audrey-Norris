@@ -2,46 +2,47 @@
   <img src="images/Banner.gif" alt="Header GIF" width="100%">
 </div>
 
-## Hello! I'm Audrey Norris
-### Software Developer/Project Manager
-Hi I am an adaptble programmer who has been working on projects for 6 years in school and through work. I am also a developing project manager working on projects for clients through my development team to deliver the best products possible.
+# Hello! I'm Audrey Norris
 
-Outside of development I enjoy public speaking and shoutcasting as an esports caster. Communication is big for me!
+### Software Developer | Project Manager | Esports Caster
 
-## My Skills
+Welcome to my GitHub! I'm an adaptable programmer with 6 years of experience building projects through school and professional work. I blend technical expertise with project management skills to deliver exceptional products for clients and their users.
 
-#### General Skills
-- Project Management
-- Scrum
-- Task Management
+When I'm not coding, you'll find me on the mic as an esports shoutcaster or speaking at events. **Communication and collaboration are at the heart of everything I do.**
 
-#### Programming Languages
-- Java
-- C#
-- C
-- React
-- HTML
-- SQL
+---
 
-#### Previous Experiences
-<a target="_blank" href="https://www.ktvb.com/article/news/local/boise-child-with-leukemia-receives-dream-wish/277-a33ce6c3-1fee-4ecc-829c-a68b86a76346">Game Project For Make A Wish</a>
+## 🛠️ Technical Skills
 
+**Languages & Frameworks**
+- Java | C# | C | React | HTML | SQL
 
-## Connect With Me
-<a target="_blank" href="https://www.linkedin.com/in/audrey-norris/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+**Project Management**
+- Scrum & Agile Methodologies
+- Task & Resource Management
+- Client Communication & Delivery
 
+---
 
-<!--
-**Audrey-Norris/Audrey-Norris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Highlighted Work
 
-Here are some ideas to get you started:
+**[Game Project for Make-A-Wish Foundation](https://www.ktvb.com/article/news/local/boise-child-with-leukemia-receives-dream-wish/277-a33ce6c3-1fee-4ecc-829c-a68b86a76346)**  
+Developed a custom game to fulfill a child's dream, featured in local news.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/audrey-norris/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+---
+
+### 💡 Currently
+
+🔭 Building innovative solutions with my development team  
+🎮 Casting esports events and honing my shoutcasting skills  
+🌱 Expanding my project management expertise  
+
+*Feel free to explore my repositories and reach out for collaborations!*
