@@ -15,13 +15,9 @@ When I'm not coding, you'll find me on the mic as an esports shoutcaster or spea
 ## 🛠️ Technical Skills
 
 **Languages & Frameworks**
-- Java | C# | C | React | HTML | SQL
-
-**Project Management**
-- Scrum & Agile Methodologies
-- Task & Resource Management
-- Client Communication & Delivery
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,c,react,js,html,css,nodejs,dotnet,git,github,vscode,visualstudio,unity,unreal,mysql,aws,linux" />
+</p>
 ---
 
 ## 🌟 Highlighted Work
