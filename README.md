@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Banner.gif" alt="Header GIF" width="50%">
+  <img src="images/Banner.gif" alt="Header GIF" width="100%">
 </div>
 
 ## Hello! I'm Audrey Norris
