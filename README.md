@@ -19,6 +19,19 @@ When I'm not coding, you'll find me on the mic as an esports shoutcaster or spea
   <img src="https://skillicons.dev/icons?i=java,cs,c,react,js,html,css,nodejs,dotnet,git,github,vscode,visualstudio,unity,unreal,mysql,aws,linux&perline=9" />
 </p>
 
+## 🎤 Speaking & Leadership
+
+**United Nations Speaker** | World Youth Skills Day 2025  
+Addressed international policy-makers, educators, and youth leaders on AI education and workforce development at UN Headquarters in New York City.
+
+**Former National President** | SkillsUSA  
+Led national workforce development initiatives and represented thousands of students across the United States in career and technical education advocacy.
+
+**Esports Shoutcaster**  
+Professional commentary and play-by-play casting for competitive gaming events, combining technical game knowledge with engaging communication.
+
+**Lead Developer** | GIMM Works, Boise State University  
+Manage development teams on real-world client projects, bridging technical execution with project management and client communication.
 
 ## 🌟 Highlighted Work
 
