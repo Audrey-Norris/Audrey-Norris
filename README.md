@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/Banner.gif" alt="Header GIF" width="800">
+</div>
+
 ## Hello! I'm Audrey Norris
 ### Software Developer/Project Manager
 Hi I am an adaptble programmer who has been working on projects for 6 years in school and through work. I am also a developing project manager working on projects for clients through my development team to deliver the best products possible.
