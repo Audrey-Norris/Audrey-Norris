@@ -15,7 +15,7 @@ When I'm not coding, you'll find me on the mic as an esports shoutcaster or spea
 ## 🛠️ Technical Skills
 
 **Languages & Frameworks**
-<p align="center" width=100%">
+<p width=100%">
   <img src="https://skillicons.dev/icons?i=java,cs,c,react,js,html,css,nodejs,dotnet,git,github,vscode,visualstudio,unity,unreal,mysql,aws,linux&perline=9" />
 </p>
 
